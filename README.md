@@ -28,6 +28,7 @@ Project of mine. Create presentations and run it as an executable. Transition us
 ### Navigation.
     . Forward, backward, pause, trigger calls in each module. The idea is to be able to jump to different
     events depending on the present segment.
+    . Video TimeStamps, pause or trigger something passed a time marker.
 
 ### UI to create Presentations faster.
     . A system to link segments, events, transitions, ...  faster
@@ -52,3 +53,5 @@ Project of mine. Create presentations and run it as an executable. Transition us
   . Audio 
   
   . Preloadsss
+  
+  . Possible renames: PointShow, Hay, Drai,
