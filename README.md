@@ -4,7 +4,7 @@ Project of mine. Create presentations and run it as an executable. Transition us
 
 ## TO DO:
 
-### OpenCV:  
+### OpenCV:  (Or try OpenVX)
     . Video(or image) overlay over video.
       .. Loop until video 1 finishes.
       .. 
@@ -16,6 +16,17 @@ Project of mine. Create presentations and run it as an executable. Transition us
     
 ### Separate files and chapters:
     . Only load and open the 
+    . Organization into segments. Each segment may be composed of:
+            - Intro (Like a title, a image, looped video or a video itself)
+            - Main body
+            
+    . Format of a segment
+            - Tittle screen: just show the tittle of what is to come.
+            - Point by point exposition. (Power point style) On continue it might trigger
+            - Video
+    
+### UI to create Presentations faster.
+    . A system to link segments, events, transitions, ...  faster
     
 ### Transition system.
     . A section can transition after end or on a external trigger.
@@ -27,7 +38,10 @@ Project of mine. Create presentations and run it as an executable. Transition us
 
 ### Have another device helping in the process.
 
-Foreseen Issues.
+### Main differences with MainStream tools. (PWP, AE as a video montage, ...)
+    . Able to pause.
+    . End of segment is a looped 'gif' or a image 
+## Foreseen Issues.
   . Audio and video desync:
       We are processing video
       
