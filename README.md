@@ -24,7 +24,11 @@ Project of mine. Create presentations and run it as an executable. Transition us
             - Tittle screen: just show the tittle of what is to come.
             - Point by point exposition. (Power point style) On continue it might trigger
             - Video
-    
+
+### Navigation.
+    . Forward, backward, pause, trigger calls in each module. The idea is to be able to jump to different
+    events depending on the present segment.
+
 ### UI to create Presentations faster.
     . A system to link segments, events, transitions, ...  faster
     
