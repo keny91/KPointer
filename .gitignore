@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+KPointer\.VC\.db
+
+\.vs/KPointer/v14/\.suo
